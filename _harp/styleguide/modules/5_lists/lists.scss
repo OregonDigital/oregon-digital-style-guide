@@ -1,4 +1,4 @@
-$magenta: #ec008c;
+$teal: #0f959a;
 
 ol, ul {
 	list-style: none;
@@ -15,7 +15,7 @@ ul.list_huge {
 			content: '▶';
 			font-size: 11px;
 			top: 4px;
-			color: $magenta;
+			color: $teal;
 			position: absolute;
 			left: 0;
 		}
@@ -33,7 +33,7 @@ ol.list_huge {
 			content: counters(item,".") " ";
 			counter-increment: item;
 			top: 0;
-			color: $magenta;
+			color: $teal;
 			position: absolute;
 			left: 0;
 		}

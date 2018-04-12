@@ -1,23 +1,28 @@
-$magenta: #ec008c;
+$teal: #0f959a;
 $black: #000;
 $grey-dark: #232525;
 $grey: #808080;
 $blue: #2fbbf9;
+$peach: #f5dbb2;
 
-.bg-magenta {
-	background-color: $magenta;
+.bg-teal {
+  background-color: $teal;
 }
 
 .bg-black {
-	background-color: $black;
+  background-color: $black;
 }
 
 .bg-grey {
-	background-color: $grey;
+  background-color: $grey;
 }
 
 .bg-blue {
-	background-color: $blue;
+  background-color: $blue;
+}
+
+.bg-peach {
+  background-color: $peach;
 }
 
 #colors {

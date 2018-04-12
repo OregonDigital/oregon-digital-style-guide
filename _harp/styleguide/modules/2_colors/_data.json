@@ -2,10 +2,10 @@
     "id": "colors",
     "name": "Colors",
     "items": {
-        "intro": ["Huge have two main colors: Magenta and Black. Additional Blue might be found on slides or t-shirts."],
+        "intro": ["Oregon Digital have two main colors: Teal and Peach. More to come."],
         "colors": [
             {
-                "className": "bg-magenta"
+                "className": "bg-teal"
             },
             {
                 "className": "bg-black"
@@ -14,7 +14,7 @@
                 "className": "bg-grey"
             },
             {
-                "className": "bg-blue"
+                "className": "bg-peach"
             }
         ]
     }

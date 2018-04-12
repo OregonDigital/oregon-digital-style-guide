@@ -2,7 +2,7 @@
   "clientName": "",
   "version": "2",
   "language": "en_US",
-  "logoImage": "huge-logo.svg",
+  "logoImage": "od-huge-logo.svg",
   "breakpoints": [
     {
       "id": "small",
