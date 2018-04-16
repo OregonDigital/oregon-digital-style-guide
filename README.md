@@ -1,1 +1,1 @@
-# oregon-digital-style-guide
+# Oregon Digital Style Guide
