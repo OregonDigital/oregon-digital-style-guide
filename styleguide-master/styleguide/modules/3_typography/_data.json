@@ -6,21 +6,21 @@
         "fonts": [
             {
                 "heading": "1",
-                "fontName" : "HUGE Avant Garde Bold",
+                "fontName" : "LatoBold",
                 "fontSize": "100px",
                 "className": "font-huge",
                 "title": "Coming Soon"
             },
             {
                 "heading": "2",
-                "fontName" : "Galaxie Copernicus Book Italic",
+                "fontName" : "LatoBold",
                 "fontSize": "80px",
                 "className": "font-galaxie italic",
                 "title": "Temporary"
             },
             {
                 "heading": "3",
-                "fontName" : "HUGE Avant Garde Bold",
+                "fontName" : "LatoRegular",
                 "fontSize": "38px",
                 "className": "font-huge small-3",
                 "title": "Not Yet Announced"

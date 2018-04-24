@@ -2,7 +2,9 @@
     "id": "colors",
     "name": "Colors",
     "items": {
-        "intro": ["Oregon Digital has two main colors: Teal and Peach. Replacement and/or more colors will reveal themselves in the future."],
+        "intro": [
+          "Oregon Digital has two main colors: Teal and Peach. Replacement and/or more colors will reveal themselves in the future."
+        ],
         "colors": [
             {
                 "className": "bg-teal"

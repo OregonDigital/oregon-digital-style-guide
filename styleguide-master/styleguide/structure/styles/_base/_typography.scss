@@ -4,7 +4,7 @@
   line-height: 30px;
   margin: 0 0 45px;
   font-weight: normal;
-  font-family: HUGEAvantGardeBold, sans-serif;
+  font-family: LatoBold, sans-serif;
   color: #000;
   -webkit-font-smoothing: antialiased;
   letter-spacing: -1px;
@@ -15,6 +15,7 @@ a {
 }
 
 p.huge-module__paragraph {
+  line-height: 1.6em;
   margin: 0;
   margin-bottom: 25px;
   color: #333;

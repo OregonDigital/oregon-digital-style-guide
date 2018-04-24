@@ -1,4 +1,4 @@
-@import url(../../assets/fonts/Huge/stylesheet.css);
+@import url(../../assets/fonts/OD/stylesheet.css);
 .bg-teal {
     background-color: #0f959a
 }
@@ -45,14 +45,14 @@
 }
 
 .font-huge {
-    font-family: 'HUGEAvantGardeBold', Helvetica, Arial, sans-serif;
+    font-family: 'LatoBold', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     font-weight: normal
 }
 
 .font-galaxie {
-    font-family: 'Galaxie', Helvetica, Roboto, Arial, sans-serif;
+    font-family: 'Lato', Helvetica, Roboto, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     font-weight: normal
@@ -100,7 +100,7 @@ h3 {
 }
 
 #typography p {
-    font: 16px/2 "Galaxie";
+    font: 16px/2 "Lato";
     margin: 2em 0
 }
 

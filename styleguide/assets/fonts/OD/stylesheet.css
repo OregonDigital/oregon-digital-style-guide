@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'LatoBold';
+    src: url("Lato-Bold.eot?#iefix") format("embedded-opentype"), url("Lato-Bold.woff") format("woff"), url("Lato-Bold.ttf") format("truetype"), url("Lato-Bold.svg#svgFontName") format("svg")
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Lato-Regular.eot?#iefix") format("embedded-opentype"), url("Lato-Regular.woff") format("woff"), url("Lato-Regular.svg#svgFontName") format("svg")
+}
+
+
+/*@font-face{font-family:'Galaxie';font-style:italic;font-weight:normal;src:url("GalaxieCopernicus-BookItalic.eot?#iefix") format("embedded-opentype"),url("GalaxieCopernicus-BookItalic.woff") format("woff"),url("GalaxieCopernicus-BookItalic.svg#svgFontName") format("svg")}*/
