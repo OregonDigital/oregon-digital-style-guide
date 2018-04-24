@@ -1,17 +1,17 @@
 {
-    "id": "templates",
-    "name": "Templates",
+    "id": "prototypes",
+    "name": "Prototypes",
     "hasScript": "yes",
     "items": {
-        "templates": [
+        "prototypes": [
             {
                 "link": "https://invis.io/CYHFDXCQAVT#/254609465_Desktop_HD",
-                "templateName": "Browse",
+                "prototypeName": "Browse",
                 "thumbnailFile": "template01.svg"
             },
             {
                 "link": "https://invis.io/CYHFDXCQAVT#/254609465_Desktop_HD",
-                "templateName": "Search",
+                "prototypeName": "Search",
                 "thumbnailFile": "template01.svg"
             }
         ]
