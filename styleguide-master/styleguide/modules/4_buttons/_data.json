@@ -1,11 +1,15 @@
 {
-	"id": "buttons",
-	"name": "Buttons",
-	"hasScript": "yes",
-	"items": [
-	    {
-	        "buttonName" : "Load more",
-	        "className": "button black"
-	    }
-	]
+  "id": "buttons",
+  "name": "Buttons",
+  "hasScript": "yes",
+  "items": [
+      {
+          "buttonName" : "Load more",
+          "className": "button black"
+      },
+      {
+          "buttonName" : "Danger",
+          "className": "btn btn-danger"
+      }
+  ]
 }
