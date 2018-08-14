@@ -1,13 +1,13 @@
 @import url(../../assets/fonts/OD/stylesheet.css);
 .font-huge {
-    font-family: 'LatoBold', Helvetica, Arial, sans-serif;
+    font-family: 'LatoBold', 'HelveticaNeue', Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     font-weight: normal
 }
 
 .font-galaxie {
-    font-family: 'Lato', Helvetica, Roboto, Arial, sans-serif;
+    font-family: 'PTSerif', Georgia, serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     font-weight: normal
@@ -18,30 +18,18 @@
 }
 
 h1 {
-    font-size: 100px;
-    line-height: 120px
+    font-size: 48px;
+    line-height: 48px
 }
 
 h2 {
-    font-size: 80px;
-    line-height: 92px
+    font-size: 32px;
+    line-height: 32px
 }
 
 h3 {
-    font-size: 38px;
-    line-height: 45px
-}
-
-.p1,
-.p2 {
-    padding-right: 20%
-}
-
-.p3 {
-    font-size: 15px;
-    line-height: 1.8;
-    color: #666;
-    margin-top: 3em
+    font-size: 24px;
+    line-height: 24px
 }
 
 #typography h1,
@@ -55,6 +43,25 @@ h3 {
 }
 
 #typography p {
-    font: 16px/2 "Lato";
-    margin: 2em 0
+    color: #444;
+    font-family: "PT Serif", sans;
+    font-size: 1em;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    line-height: 1.4em;
+    max-width: 38em;
+    -webkit-hyphenate-limit-before: 4;
+    -webkit-hyphenate-limit-after: 2;
+    hyphenate-limit-chars: 6 4 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-lines: 2;
+    hyphenate-limit-zone: 8%
+}
+
+@media screen and (min-width:60em) {
+    #typography p {
+        font-size: 1.2rem
+    }
 }
