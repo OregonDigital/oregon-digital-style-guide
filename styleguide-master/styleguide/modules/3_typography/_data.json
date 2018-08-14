@@ -7,15 +7,15 @@
             {
                 "heading": "1",
                 "fontName" : "LatoBold",
-                "fontSize": "100px",
+                "fontSize": "48px",
                 "className": "font-huge",
-                "title": "Coming Soon"
+                "title": "Exchange Clubs (nōsatsu-kai) <em>for</em> Fun and <a href=''>Profit</a> Among the Альберт"
             },
             {
                 "heading": "2",
                 "fontName" : "LatoBold",
                 "fontSize": "80px",
-                "className": "font-galaxie italic",
+                "className": "font-huge italic",
                 "title": "Temporary"
             },
             {
@@ -30,14 +30,14 @@
         "paragraphs": [
             {
                 "className": "p1",
-                "text": "The collections of Oregon Digital are primarily created to support the teaching and research missions of the University of Oregon and Oregon State University. The collections are comprised of unique digitized and born-digital materials including photographs, articles, sheet music, manuscripts, ephemera, and more. Oregon Digital is collaboratively managed by the Digital Scholarship Center of the University of Oregon Libraries and by Oregon State University Libraries."
+                "text": "The collections of Oregon Digital are primarily created to support the teaching and research missions of the University of Oregon and Oregon State University. The collections, including Exchange Clubs (nōsatsu-kai) for Fun and Profit Among the Альберт, are comprised of unique digitized and born-digital materials including photographs, articles, sheet music, manuscripts, ephemera, and more. Oregon Digital is collaboratively managed by the Digital Scholarship Center of the University of Oregon Libraries and by Oregon State University Libraries."
             },
             {
                 "className": "p2",
                 "text": "The collections of Oregon Digital are primarily created to support the teaching and research missions of the University of Oregon and Oregon State University. The collections are comprised of unique digitized and born-digital materials including photographs, articles, sheet music, manuscripts, ephemera, and more."
             },
             {
-                "className": "p3 small-3",
+                "className": "p3",
                 "text": "The collections of Oregon Digital are primarily created to support the teaching and research missions of the University of Oregon and Oregon State University."
             }
         ]
